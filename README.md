@@ -1,5 +1,5 @@
 # WSSettingsFX
-WSSettingsFX is a reusable Settings framework that allows developers to easily and quickly integrate Settings screen into their apps.
+WSSettingsFX is a reusable Settings framework that allows developers to easily and quickly integrate Settings screen and functionality into their iOS apps. This framework is brought to you by [WhiteSnow]:http://www.whitesnow.com
 
 ## Features
 WSSettingsFX Framework provides the following features out of the box:
